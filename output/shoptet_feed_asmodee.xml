@@ -241,7 +241,6 @@ OBSAH BALENÍ:
     <META_DESCRIPTION />
     <MANUFACTURER>Allplay</MANUFACTURER>
     <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
-    <url_obrazku />
     <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <LOGISTIC>
@@ -250,27 +249,6 @@ OBSAH BALENÍ:
       <WIDTH>6.5</WIDTH>
       <DEPTH>11</DEPTH>
       </LOGISTIC>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
     <EXTERNAL_CODE>ARCCZ01</EXTERNAL_CODE>
@@ -730,9 +708,6 @@ Obsah balení:
       <INFORMATION_PARAMETER>
         <NAME>Herní doba</NAME>
         <VALUE>30 minut.</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -4530,22 +4505,6 @@ Obsah balení:
       </LOGISTIC>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
         <NAME>Jazyk pravidel</NAME>
         <VALUE>Čeština</VALUE>
         <VALUE>Slovenština</VALUE>
@@ -5665,9 +5624,6 @@ Obsah balení:
         <NAME>Herní doba</NAME>
         <VALUE>15 minut.</VALUE>
         </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
@@ -6256,9 +6212,6 @@ Obsah balení:
         <NAME>Herní doba</NAME>
         <VALUE>15 minut.</VALUE>
         </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
@@ -6326,9 +6279,6 @@ Obsah balení:
       <INFORMATION_PARAMETER>
         <NAME>Herní doba</NAME>
         <VALUE>15 minut.</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -6590,9 +6540,6 @@ Obsah balení:
         <NAME>Herní doba</NAME>
         <VALUE>15 minut.</VALUE>
         </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
@@ -6781,7 +6728,6 @@ Obsah balení:
     <META_DESCRIPTION />
     <MANUFACTURER>Dotted Games</MANUFACTURER>
     <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
-    <url_obrazku />
     <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <LOGISTIC>
@@ -6794,25 +6740,6 @@ Obsah balení:
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
         <VALUE>2026</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -6828,7 +6755,6 @@ Obsah balení:
     <META_DESCRIPTION />
     <MANUFACTURER>Dotted Games</MANUFACTURER>
     <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
-    <url_obrazku />
     <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <LOGISTIC>
@@ -6841,25 +6767,6 @@ Obsah balení:
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
         <VALUE>2026</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -11097,9 +11004,6 @@ Obsah balení:
         <NAME>Herní doba</NAME>
         <VALUE>30-45 minut</VALUE>
         </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
@@ -11694,9 +11598,6 @@ Obsah:
       <INFORMATION_PARAMETER>
         <NAME>Herní doba</NAME>
         <VALUE>30 minut.</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -13949,22 +13850,6 @@ Obal není hračka, před použitím hračky ho odstraňte z dosahu dítěte, m�
       </LOGISTIC>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
         <NAME>Jazyk pravidel</NAME>
         <VALUE>Čeština</VALUE>
         <VALUE>Slovenština</VALUE>
@@ -15934,7 +15819,6 @@ Obsah balení:
 </META_DESCRIPTION>
     <MANUFACTURER>Cool Mini Or Not</MANUFACTURER>
     <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
-    <url_obrazku />
     <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <LOGISTIC>
@@ -15959,9 +15843,6 @@ Obsah balení:
       <INFORMATION_PARAMETER>
         <NAME>Herní doba</NAME>
         <VALUE>15 minut.</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -16877,13 +16758,6 @@ Obsah balení:
         <NAME>Doporučený věk</NAME>
         <VALUE>14+</VALUE>
         </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
@@ -17380,20 +17254,8 @@ Obsah balení:
       </LOGISTIC>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
         <NAME>Doporučený věk</NAME>
         <VALUE>13+</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
         <NAME>Jazyk pravidel</NAME>
@@ -17777,20 +17639,8 @@ pravidla
       </LOGISTIC>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
         <NAME>Doporučený věk</NAME>
         <VALUE>14+</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
         <NAME>Jazyk pravidel</NAME>
@@ -17871,20 +17721,8 @@ pravidla
       </LOGISTIC>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
         <NAME>Doporučený věk</NAME>
         <VALUE>14+</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
         <NAME>Jazyk pravidel</NAME>
@@ -17942,20 +17780,8 @@ pravidla
       </LOGISTIC>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
         <NAME>Doporučený věk</NAME>
         <VALUE>14+</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
         <NAME>Jazyk pravidel</NAME>
@@ -19265,9 +19091,6 @@ Obsah balení:
         <NAME>Herní doba</NAME>
         <VALUE>60 minut.</VALUE>
         </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
@@ -19992,9 +19815,6 @@ Obsah balení:
       <INFORMATION_PARAMETER>
         <NAME>Herní doba</NAME>
         <VALUE>15 minut.</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -21417,9 +21237,6 @@ Obsah balení:
       <INFORMATION_PARAMETER>
         <NAME>Herní doba</NAME>
         <VALUE>60-90 minut.</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -23257,9 +23074,6 @@ OBSAH BALENÍ:
         <NAME>Herní doba</NAME>
         <VALUE>30 minut.</VALUE>
         </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
@@ -23274,7 +23088,6 @@ OBSAH BALENÍ:
     <META_DESCRIPTION />
     <MANUFACTURER>Fantasy Flight Games</MANUFACTURER>
     <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
-    <url_obrazku />
     <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <LOGISTIC>
@@ -23283,27 +23096,6 @@ OBSAH BALENÍ:
       <WIDTH>16.5</WIDTH>
       <DEPTH>7.1</DEPTH>
       </LOGISTIC>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
     <EXTERNAL_CODE>FTIN01CZ</EXTERNAL_CODE>
@@ -25146,23 +24938,8 @@ Obsah balení:
         <VALUE>2025</VALUE>
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
         <NAME>Doporučený věk</NAME>
         <VALUE>14+</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -25784,27 +25561,6 @@ Obsah balení:
       <WIDTH>16</WIDTH>
       <DEPTH>9</DEPTH>
       </LOGISTIC>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
     <EXTERNAL_CODE>GOBW3MCCZ</EXTERNAL_CODE>
@@ -25834,27 +25590,6 @@ Obsah balení:
       <WIDTH>30</WIDTH>
       <DEPTH>14.6</DEPTH>
       </LOGISTIC>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
     <EXTERNAL_CODE>GOTSBG01CZ</EXTERNAL_CODE>
@@ -28428,7 +28163,6 @@ Obsah balení:
     <META_DESCRIPTION />
     <MANUFACTURER>Look out Games</MANUFACTURER>
     <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
-    <url_obrazku />
     <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <LOGISTIC>
@@ -28437,27 +28171,6 @@ Obsah balení:
       <WIDTH>10.5</WIDTH>
       <DEPTH>3.2</DEPTH>
       </LOGISTIC>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
     <EXTERNAL_CODE>LOG185CS</EXTERNAL_CODE>
@@ -29271,9 +28984,6 @@ Obsah balení:
         <NAME>Herní doba</NAME>
         <VALUE>45 minut.</VALUE>
         </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
@@ -29361,9 +29071,6 @@ OBSAH BALENÍ:
       <INFORMATION_PARAMETER>
         <NAME>Herní doba</NAME>
         <VALUE>30 minut.</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -29454,7 +29161,6 @@ Obsah balení:
     <META_DESCRIPTION />
     <MANUFACTURER>Office Dog</MANUFACTURER>
     <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
-    <url_obrazku />
     <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <LOGISTIC>
@@ -29467,25 +29173,6 @@ Obsah balení:
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
         <VALUE>2026</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -29848,25 +29535,6 @@ pravidla
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
         <VALUE>2024</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -30269,7 +29937,6 @@ Obsah balení:
     <META_DESCRIPTION />
     <MANUFACTURER>Publishing Technology &amp; Solutions</MANUFACTURER>
     <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
-    <url_obrazku />
     <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <LOGISTIC>
@@ -30278,27 +29945,6 @@ Obsah balení:
       <WIDTH>22.8</WIDTH>
       <DEPTH>3.6</DEPTH>
       </LOGISTIC>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
     <EXTERNAL_CODE>PTMATBOM01CZ</EXTERNAL_CODE>
@@ -30376,7 +30022,6 @@ Obsah balení:
     <META_DESCRIPTION />
     <MANUFACTURER>Publishing Technology &amp; Solutions</MANUFACTURER>
     <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
-    <url_obrazku />
     <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <LOGISTIC>
@@ -30385,27 +30030,6 @@ Obsah balení:
       <WIDTH>26.7</WIDTH>
       <DEPTH>9.4</DEPTH>
       </LOGISTIC>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
     <EXTERNAL_CODE>PYR01CZ</EXTERNAL_CODE>
@@ -31166,7 +30790,6 @@ bodovací bloček
     <META_DESCRIPTION />
     <MANUFACTURER>Rebel</MANUFACTURER>
     <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
-    <url_obrazku />
     <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <LOGISTIC>
@@ -31179,25 +30802,6 @@ bodovací bloček
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
         <VALUE>2026</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -31308,27 +30912,6 @@ OBSAH BALENÍ:
       <WIDTH>9</WIDTH>
       <DEPTH>14</DEPTH>
       </LOGISTIC>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE />
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
     <EXTERNAL_CODE>REMEA09CS</EXTERNAL_CODE>
@@ -31406,9 +30989,6 @@ Oboustranná deska s řekou
       <INFORMATION_PARAMETER>
         <NAME>Herní doba</NAME>
         <VALUE>60-90 minut.</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -32672,9 +32252,6 @@ Obsah balení:
         <NAME>Herní doba</NAME>
         <VALUE>20 minut.</VALUE>
         </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
@@ -33300,9 +32877,6 @@ Obsah balení:
       <INFORMATION_PARAMETER>
         <NAME>Herní doba</NAME>
         <VALUE>25-40 minut</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -34403,9 +33977,6 @@ Obsah balení:
       <INFORMATION_PARAMETER>
         <NAME>Herní doba</NAME>
         <VALUE>20 minut.</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -35777,9 +35348,6 @@ Obsah balení:
         <NAME>Herní doba</NAME>
         <VALUE>20 minut.</VALUE>
         </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
@@ -36267,9 +35835,6 @@ elektronické zařízení
         <NAME>Herní doba</NAME>
         <VALUE>15-20 minut.</VALUE>
         </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
@@ -36342,9 +35907,6 @@ OBSAH BALENÍ:
       <INFORMATION_PARAMETER>
         <NAME>Herní doba</NAME>
         <VALUE>15-20 minut.</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
