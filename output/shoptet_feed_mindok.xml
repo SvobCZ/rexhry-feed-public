@@ -185,6 +185,52 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
+    <EXTERNAL_CODE>028</EXTERNAL_CODE>
+    <NAME>Děti z Carcassonne</NAME>
+    <PRICE>619.01</PRICE>
+    <PURCHASE_PRICE>433.31</PURCHASE_PRICE>
+    <EAN>8595558300280</EAN>
+    <DESCRIPTION>Dětská varianta světoznámé hry Carcassonne. Jedenkrát za rok se pořádá slavnost, při které ze všech ohrad vypustí krávy, ovce a slepice. Děti z Carcassonne se pak celý den baví tím, že zvířata zahánějí zpátky do ohrad. Běhají po cestách a loukách v okolí hradu proto, aby všechna zvířata byla zpátky doma před setměním. Celosvětově proslavenou hru Carcassonne si nyní mohou zahrát děti již od čtyř let. Zábavu u této hry si mohou společně užít děti i dospělí. Ve hře není žádné bodování, zvítězí ten hráč, kterému se jako prvnímu podaří umístit všechny své děti do krásné krajiny v okolí hradu.</DESCRIPTION>
+    <IMAGES>
+      <IMAGE>https://mindok.cz/wp-content/uploads/2023/05/carcdeti-2023-titulka01.jpg</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>0.94</WEIGHT>
+      <HEIGHT>276</HEIGHT>
+      <WIDTH>190</WIDTH>
+      <DEPTH>67</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2009</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Minimální počet hráčů</NAME>
+        <VALUE>2</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální počet hráčů</NAME>
+        <VALUE>4</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Doporučený věk</NAME>
+        <VALUE>4+</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Herní doba</NAME>
+        <VALUE>20+ minut</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        <VALUE>Slovenština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
     <EXTERNAL_CODE>029</EXTERNAL_CODE>
     <NAME>Černé historky 1</NAME>
     <PRICE>230.58</PRICE>
@@ -733,7 +779,6 @@
         <NAME>Jazyk pravidel</NAME>
         <VALUE>Čeština</VALUE>
         <VALUE>Slovenština</VALUE>
-        <VALUE>Angličtina</VALUE>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -818,6 +863,52 @@
       <INFORMATION_PARAMETER>
         <NAME>Doporučený věk</NAME>
         <VALUE>8+</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Herní doba</NAME>
+        <VALUE>5+ minut</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        <VALUE>Slovenština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>074</EXTERNAL_CODE>
+    <NAME>SMART - Den a noc</NAME>
+    <PRICE>742.98</PRICE>
+    <PURCHASE_PRICE>557.23</PURCHASE_PRICE>
+    <EAN>8595558300747</EAN>
+    <DESCRIPTION>Hlavolamová hra pro 1 hráče z řady SMART games. Den a noc je hra plná zábavy a skvělých možností rozvoje. Děti se učí barvy a tvary a při stavbě figurek veselých panáčků, stromů, domečků a spousty dalších věcí. Při tom rozvíjejí své schopnosti. V této hře následují náročnější rébusy po jednodušších, stejně jako následuje noc po dni. Den a noc je zároveň hra, hlavolam i hračka, která rozvíjí logické myšlení a prostorovou představivost dětí od 18 měsíců do 5 let.</DESCRIPTION>
+    <IMAGES>
+      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2020/03/05094637/7lik0lhkcnbm8lan3n2k.jpg</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>0.8</WEIGHT>
+      <HEIGHT>245</HEIGHT>
+      <WIDTH>293</WIDTH>
+      <DEPTH>64</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2011</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Minimální počet hráčů</NAME>
+        <VALUE>1</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální počet hráčů</NAME>
+        <VALUE>1</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Doporučený věk</NAME>
+        <VALUE>2+</VALUE>
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
         <NAME>Herní doba</NAME>
@@ -1079,7 +1170,7 @@
       <WIDTH>243</WIDTH>
       <DEPTH>62</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -1111,47 +1202,49 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>050</EXTERNAL_CODE>
-    <NAME>Vládci podzemí</NAME>
-    <PRICE>825.62</PRICE>
-    <PURCHASE_PRICE>619.21</PURCHASE_PRICE>
-    <EAN>8595558300501</EAN>
-    <DESCRIPTION>Strategická desková hra nejen pro všechny příznivce fantasy. Vydali jste se někdy s družinou dobrodruhů do podzemních chodeb dobývat slávu, zkušenosti a získat nějaký ten poklad? A zamysleli jste se někdy nad tím, jak složité je takové podzemí plné chodeb a nestvůr vybudovat a provozovat? Ne? Tak nyní si to budete moci zkusit. Vžijte se do role vládce podzemí, svolejte své služebníčky, vybudujte síť chodeb a místností, nastražte v nich pasti, najměte nestvůry, a zkuste zabránit hrdinům, aby vám vaše dílo dobyli a vyrabovali. Uvidíte, že se od nynějška budete na temná zákoutí různých doupat a jejich obyvatele dívat úplně jiným pohledem!</DESCRIPTION>
+    <EXTERNAL_CODE>052</EXTERNAL_CODE>
+    <NAME>SMART - Zámecké schody</NAME>
+    <PRICE>742.98</PRICE>
+    <PURCHASE_PRICE>557.23</PURCHASE_PRICE>
+    <EAN>8595558300525</EAN>
+    <DESCRIPTION>Hlavolamová hra pro 1 hráče z řady SMART games. Když princ hledá svoji princeznu... Princeznu uvěznil zlý čaroděj ve věži! A statečný princ se vydává na její záchranu. Pomůžete mu? Postavte z krásných dřevěných dílků schody a mosty tak, aby princ mohl zachránit princeznu. Posilte své mozkové závity s touto krásnou dřevěnou 3D logickou hrou. Ve hře najdete jak jednoduché úkoly pro stavitele začátečníky, tak i úkoly náročné pro zkušené architekty. Hra Zámecké schody je vytvořená tak, že rovzíjí logické myšlení a prostorovou představivost.</DESCRIPTION>
     <IMAGES>
-      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2020/03/05094309/imhn4k0kfm0n2lhnbkaj.jpg</IMAGE>
+      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2020/03/05090411/SGzameckeschody_krabice.png</IMAGE>
       </IMAGES>
     <LOGISTIC>
-      <WEIGHT>1.7</WEIGHT>
-      <HEIGHT>295</HEIGHT>
-      <WIDTH>295</WIDTH>
-      <DEPTH>70</DEPTH>
+      <WEIGHT>0.86</WEIGHT>
+      <HEIGHT>245</HEIGHT>
+      <WIDTH>290</WIDTH>
+      <DEPTH>64</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
-        <VALUE>2009</VALUE>
+        <VALUE>2010</VALUE>
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
         <NAME>Minimální počet hráčů</NAME>
-        <VALUE>2</VALUE>
+        <VALUE>1</VALUE>
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
         <NAME>Maximální počet hráčů</NAME>
-        <VALUE>4</VALUE>
+        <VALUE>1</VALUE>
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
         <NAME>Doporučený věk</NAME>
-        <VALUE>12+</VALUE>
+        <VALUE>4+</VALUE>
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
         <NAME>Herní doba</NAME>
-        <VALUE>90+ minut</VALUE>
+        <VALUE>5+ minut</VALUE>
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
         <NAME>Jazyk pravidel</NAME>
         <VALUE>Čeština</VALUE>
+        <VALUE>Slovenština</VALUE>
+        <VALUE>Angličtina</VALUE>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -1171,7 +1264,7 @@
       <WIDTH>227</WIDTH>
       <DEPTH>104</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -1247,30 +1340,6 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>801</EXTERNAL_CODE>
-    <NAME>Katalog MINDOK A6</NAME>
-    <PRICE>0</PRICE>
-    <PURCHASE_PRICE>0</PURCHASE_PRICE>
-    <IMAGES>
-      <IMAGE>https://mindok.cz/wp-content/uploads/2024/09/katalog-mindok-2024-2025-titulka.jpg</IMAGE>
-      </IMAGES>
-    <LOGISTIC>
-      <WEIGHT>0.06</WEIGHT>
-      <HEIGHT>0</HEIGHT>
-      <WIDTH>0</WIDTH>
-      <DEPTH>0</DEPTH>
-      </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <EAN>0</EAN>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Rok vydání (v češtině):</NAME>
-        <VALUE>2008</VALUE>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>186</EXTERNAL_CODE>
     <NAME>50 Přírodních experimentů</NAME>
     <PRICE>189.26</PRICE>
@@ -1304,52 +1373,6 @@
       <INFORMATION_PARAMETER>
         <NAME>Doporučený věk</NAME>
         <VALUE>8+</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE>15+ minut</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        <VALUE>Čeština</VALUE>
-        <VALUE>Slovenština</VALUE>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
-    </SHOPITEM>
-  <SHOPITEM>
-    <EXTERNAL_CODE>185</EXTERNAL_CODE>
-    <NAME>50 Veselých her do auta</NAME>
-    <PRICE>189.26</PRICE>
-    <PURCHASE_PRICE>132.48</PURCHASE_PRICE>
-    <EAN>8595558301850</EAN>
-    <DESCRIPTION>Kdy už tam budeme? Nemáte moc rádi dlouhé cesty autem? Namačkaní mezi sourozenci a taškami, dlouhé hodiny v dopravní zácpě a už asi stokrát jste hráli slovní kopanou? Na další cesty se však můžete těšit! Tato krabička ukrývá 50 her, hádanek a nápadů, díky kterým se všechny budoucí cesty změní v hezký v zážitek! Milé maminky a milí tatínkové, neobávejte se, že se cestou budete nudit: Některé hry si přece můžete zahrát s dětmi!</DESCRIPTION>
-    <IMAGES>
-      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2020/03/05094057/imhlakcnhm5lak5l6k5l.jpg</IMAGE>
-      </IMAGES>
-    <LOGISTIC>
-      <WEIGHT>0.21</WEIGHT>
-      <HEIGHT>135</HEIGHT>
-      <WIDTH>95</WIDTH>
-      <DEPTH>23</DEPTH>
-      </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Rok vydání (v češtině):</NAME>
-        <VALUE>2015</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE>2</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE>8</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE>6+</VALUE>
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
         <NAME>Herní doba</NAME>
@@ -1546,48 +1569,6 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>810</EXTERNAL_CODE>
-    <NAME>Stojan černé historky</NAME>
-    <PRICE>0</PRICE>
-    <PURCHASE_PRICE>0</PURCHASE_PRICE>
-    <IMAGES>
-      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2020/03/05094107/cm7lbmfkgm7lgkhmamhm.jpg</IMAGE>
-      </IMAGES>
-    <LOGISTIC>
-      <WEIGHT>0</WEIGHT>
-      <HEIGHT>0</HEIGHT>
-      <WIDTH>0</WIDTH>
-      <DEPTH>0</DEPTH>
-      </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <EAN>0</EAN>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Rok vydání (v češtině):</NAME>
-        <VALUE>2009</VALUE>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
-    </SHOPITEM>
-  <SHOPITEM>
-    <EXTERNAL_CODE>817</EXTERNAL_CODE>
-    <NAME>Stojan karetní hry 3 patrový otočný</NAME>
-    <PRICE>0</PRICE>
-    <PURCHASE_PRICE>0</PURCHASE_PRICE>
-    <IMAGES>
-      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2020/03/05094009/8mdn9ldl7nal5m5kfnek.jpg</IMAGE>
-      </IMAGES>
-    <LOGISTIC>
-      <WEIGHT>3</WEIGHT>
-      <HEIGHT>550</HEIGHT>
-      <WIDTH>250</WIDTH>
-      <DEPTH>250</DEPTH>
-      </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <EAN>0</EAN>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>401</EXTERNAL_CODE>
     <NAME>Černé historky: Osudové chyby</NAME>
     <PRICE>230.58</PRICE>
@@ -1718,6 +1699,53 @@
       <INFORMATION_PARAMETER>
         <NAME>Herní doba</NAME>
         <VALUE>15+ minut</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        <VALUE>Slovenština</VALUE>
+        <VALUE>Angličtina</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>249</EXTERNAL_CODE>
+    <NAME>SMART - IQ XOXO</NAME>
+    <PRICE>329.75</PRICE>
+    <PURCHASE_PRICE>230.83</PURCHASE_PRICE>
+    <EAN>8595558302499</EAN>
+    <DESCRIPTION>&amp;quot;XOXO&amp;quot; je ustálená internetová zkratka pro &amp;quot;Hugs and Kisses&amp;quot; neboli &amp;quot;Objímá a líbá (Tě)&amp;quot;. Tato hra přináší objetí a polibky vašemu mozku :)  Umístěte na herní plán 10 oboustranných herních dílků tak, aby se &amp;quot;X&amp;quot; a &amp;quot;O&amp;quot; ve všech směrech pravidleně střídala. 120 rébusů této kompaktní hry  vám přináší dlouhodobou zajímavou výzvu.</DESCRIPTION>
+    <IMAGES>
+      <IMAGE>https://mindok.cz/wp-content/uploads/2024/10/sg-iq-xoxo-2024-titulka01.jpg</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>0.18</WEIGHT>
+      <HEIGHT>145</HEIGHT>
+      <WIDTH>99</WIDTH>
+      <DEPTH>30</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2016</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Minimální počet hráčů</NAME>
+        <VALUE>1</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální počet hráčů</NAME>
+        <VALUE>1</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Doporučený věk</NAME>
+        <VALUE>6+</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Herní doba</NAME>
+        <VALUE>5+ minut</VALUE>
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
         <NAME>Jazyk pravidel</NAME>
@@ -1956,24 +1984,6 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>819</EXTERNAL_CODE>
-    <NAME>Ukázková verze Krycí jména</NAME>
-    <PRICE>0</PRICE>
-    <PURCHASE_PRICE>0</PURCHASE_PRICE>
-    <IMAGES>
-      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2020/03/05093838/2l0n8lhl6nal6n9ldm4m-scaled-1.jpg</IMAGE>
-      </IMAGES>
-    <LOGISTIC>
-      <WEIGHT>0.009</WEIGHT>
-      <HEIGHT>0</HEIGHT>
-      <WIDTH>0</WIDTH>
-      <DEPTH>0</DEPTH>
-      </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <EAN>0</EAN>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>265</EXTERNAL_CODE>
     <NAME>SK Krycie mená: Obrázky</NAME>
     <PRICE>495.04</PRICE>
@@ -2034,7 +2044,7 @@
       <WIDTH>95</WIDTH>
       <DEPTH>23</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -2080,7 +2090,7 @@
       <WIDTH>435</WIDTH>
       <DEPTH>100</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -2308,7 +2318,7 @@
       <WIDTH>164</WIDTH>
       <DEPTH>54</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -2488,7 +2498,7 @@
       <WIDTH>96</WIDTH>
       <DEPTH>25</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -2563,51 +2573,6 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>313</EXTERNAL_CODE>
-    <NAME>Expedice příroda: 50 druhů hmyzu a pavouků</NAME>
-    <PRICE>189.26</PRICE>
-    <PURCHASE_PRICE>132.48</PURCHASE_PRICE>
-    <EAN>8595558303137</EAN>
-    <DESCRIPTION>Díky kartám v této krabičce zvládnete hravě určit 50 pavouků a hmyzu. Na kartách najdete kvízovou otázku, názornou ilustraci, základní informace a také několik zajímavostí. Ideální průvodce pro všechny milovníky přírody!</DESCRIPTION>
-    <IMAGES>
-      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2020/03/05093732/0j2k8l4jhn1jgj7jam4l.jpg</IMAGE>
-      </IMAGES>
-    <LOGISTIC>
-      <WEIGHT>0.21</WEIGHT>
-      <HEIGHT>135</HEIGHT>
-      <WIDTH>96</WIDTH>
-      <DEPTH>25</DEPTH>
-      </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Rok vydání (v češtině):</NAME>
-        <VALUE>2018</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE>1</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE>1</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE>6+</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE>15+ minut</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        <VALUE>Čeština</VALUE>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>311</EXTERNAL_CODE>
     <NAME>Expedice příroda: 50 plemen psů</NAME>
     <PRICE>189.26</PRICE>
@@ -2649,6 +2614,53 @@
       <INFORMATION_PARAMETER>
         <NAME>Jazyk pravidel</NAME>
         <VALUE>Čeština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>319</EXTERNAL_CODE>
+    <NAME>SMART - Tři oříšky pro veverku</NAME>
+    <PRICE>412.4</PRICE>
+    <PURCHASE_PRICE>288.68</PURCHASE_PRICE>
+    <EAN>8595558303199</EAN>
+    <DESCRIPTION>Pomozte veverkám připravit zásoby na zimu! Pomozte veverkám s přípravou zásob na tuhou zimu &amp;ndash; dokážete pohybovat veverkami tak, aby všechny oříšky či žaludy skryly do podzemních spižíren? &amp;bdquo;Tři oříšky pro veverku&amp;ldquo; je posouvací hlavolam, ve kterém vám 60 zadání pořádně otestuje mozkové závity.</DESCRIPTION>
+    <IMAGES>
+      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2020/03/05093651/4l9len8k1n6j6n7m0nen.jpg</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>0.38</WEIGHT>
+      <HEIGHT>245</HEIGHT>
+      <WIDTH>175</WIDTH>
+      <DEPTH>46</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2018</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Minimální počet hráčů</NAME>
+        <VALUE>1</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální počet hráčů</NAME>
+        <VALUE>1</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Doporučený věk</NAME>
+        <VALUE>6+</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Herní doba</NAME>
+        <VALUE>5+ minut</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        <VALUE>Slovenština</VALUE>
+        <VALUE>Angličtina</VALUE>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -2835,6 +2847,51 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
+    <EXTERNAL_CODE>335</EXTERNAL_CODE>
+    <NAME>Podmořská města</NAME>
+    <PRICE>1073.55</PRICE>
+    <PURCHASE_PRICE>751.49</PURCHASE_PRICE>
+    <EAN>8595558303359</EAN>
+    <DESCRIPTION>Postupné rozšiřování stále více přeplněných velkoměst po zemském povrchu dosáhlo takového stavu, že se lidstvo rozhodlo hledat nový domov na mořském dně. Farmy na mořské řasy zajistí potravu, odsolovací zařízení zabezpečí dostatek pitné vody a v laboratořích jsou vyvíjeny technologie potřebné pro vybudování podmořských měst. Hráči přebírají odpovědnost za rozvoj svěřených podmořských oblastí. Shromažďují zdroje nutné pro budování měst, dopravní infrastruktury i zařízení nutných pro zajištění života pod mořskou hladinou. Všechny akce se provádějí hraním karet. Využijete-li akci na plánu zahráním barevně odpovídající karty, získáte jistou výhodu. Někdy však pro vás bude provedení konkrétní akce tak důležité, že ji budete chtít využít i s pomocí karty, která jí neodpovídá. Jindy bude výhoda při zahrání barevně odpovídající karty tak významná, že ji budete chtít získat i za cenu toho, že využijete pro vás v tu chvíli méně výhodnou akci na plánu. Nalezení správné rovnováhy je klíčové při budování podmořských oblastí vhodných pro přežití lidstva a zároveň klíčem k vítězství v této hře.</DESCRIPTION>
+    <IMAGES>
+      <IMAGE>https://www.mindok.cz/userfiles/image_gallery/3jakgm8kfk3ldl5m6l6m.jpg</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>1.55</WEIGHT>
+      <HEIGHT>232</HEIGHT>
+      <WIDTH>322</WIDTH>
+      <DEPTH>74</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2018</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Minimální počet hráčů</NAME>
+        <VALUE>1</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální počet hráčů</NAME>
+        <VALUE>4</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Doporučený věk</NAME>
+        <VALUE>12+</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Herní doba</NAME>
+        <VALUE>40+ minut</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
     <EXTERNAL_CODE>327</EXTERNAL_CODE>
     <NAME>Desítka</NAME>
     <PRICE>536.36</PRICE>
@@ -2880,61 +2937,43 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>820</EXTERNAL_CODE>
-    <NAME>Stojan regálový</NAME>
-    <PRICE>0</PRICE>
-    <PURCHASE_PRICE>0</PURCHASE_PRICE>
+    <EXTERNAL_CODE>339</EXTERNAL_CODE>
+    <NAME>Kronika zločinu</NAME>
+    <PRICE>825.62</PRICE>
+    <PURCHASE_PRICE>577.93</PURCHASE_PRICE>
+    <EAN>8595558303397</EAN>
+    <DESCRIPTION>Vžijte se do role člena týmu vyšetřovatelů v současném Londýně. Právě jste opustili kancelář vrchního inspektora. V Hyde Parku byla nalezena mrtvola mladé dívky a šéf vám případ přidělil. Vypadá to jako běžná rutina, ale něco vám na celé věci nehraje. Vydejte se na místo činu a začněte vyšetřovat! Kronika zločinu je kooperativní hra, v níž řešíte zapeklité detektivní případy. Pomocí unikátní technologie Scan &amp;amp; Play, která propojí zážitek z deskové hry s hrou digitální, se vám otevře řada poutavých příběhů. Všechny případy budete řešit se stejnou sadou herního materiálu. Vyslechněte podezřelé, sbírejte důkazní materiál a usvědčte zločince v určeném časovém limitu!</DESCRIPTION>
     <IMAGES>
-      <IMAGE>https://mindok.cz/wp-content/uploads/2024/11/stojan-maly-modry-papirovy-scaled.jpg</IMAGE>
+      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2020/03/05093630/cj9l2lel4m8memgl0lfm.jpg</IMAGE>
       </IMAGES>
     <LOGISTIC>
-      <WEIGHT>0.35</WEIGHT>
-      <HEIGHT>550</HEIGHT>
-      <WIDTH>250</WIDTH>
-      <DEPTH>250</DEPTH>
-      </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <EAN>0</EAN>
-    </SHOPITEM>
-  <SHOPITEM>
-    <EXTERNAL_CODE>342</EXTERNAL_CODE>
-    <NAME>Legendy západu: Hodný, zlý a pohledný – rozšíření 2</NAME>
-    <PRICE>288.43</PRICE>
-    <PURCHASE_PRICE>216.32</PURCHASE_PRICE>
-    <EAN>8595558303427</EAN>
-    <DESCRIPTION>Legendy Západu je dobrodružná hra pro 2–6 hráčů tematicky zasazená na Divoký západ. Toto rozšíření přináší 3 nové postavy a nové příběhové karty, z nichž některé vám umožní získat odměnu nového druhu: unikátní legendární vybavení!</DESCRIPTION>
-    <IMAGES>
-      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2020/03/05093612/fm4m8lcj1m6jglhlen6l.jpg</IMAGE>
-      </IMAGES>
-    <LOGISTIC>
-      <WEIGHT>0.8</WEIGHT>
-      <HEIGHT>130</HEIGHT>
-      <WIDTH>105</WIDTH>
-      <DEPTH>53</DEPTH>
+      <WEIGHT>0.95</WEIGHT>
+      <HEIGHT>292</HEIGHT>
+      <WIDTH>292</WIDTH>
+      <DEPTH>67</DEPTH>
       </LOGISTIC>
     <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
-        <VALUE>2020</VALUE>
+        <VALUE>2019</VALUE>
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
         <NAME>Minimální počet hráčů</NAME>
-        <VALUE>2</VALUE>
+        <VALUE>1</VALUE>
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
         <NAME>Maximální počet hráčů</NAME>
-        <VALUE>6</VALUE>
+        <VALUE>4</VALUE>
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
         <NAME>Doporučený věk</NAME>
-        <VALUE>14+</VALUE>
+        <VALUE>12+</VALUE>
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
         <NAME>Herní doba</NAME>
-        <VALUE>120+ minut</VALUE>
+        <VALUE>90+ minut</VALUE>
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
         <NAME>Jazyk pravidel</NAME>
@@ -3275,7 +3314,7 @@
       <WIDTH>99</WIDTH>
       <DEPTH>30</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -3322,7 +3361,7 @@
       <WIDTH>164</WIDTH>
       <DEPTH>15</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -3666,51 +3705,6 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>347</EXTERNAL_CODE>
-    <NAME>Rivalové: Nebezpečné okruhy – rozšíření</NAME>
-    <PRICE>247.11</PRICE>
-    <PURCHASE_PRICE>185.33</PURCHASE_PRICE>
-    <EAN>8595558303472</EAN>
-    <DESCRIPTION>Otestujte své limity na dvou nových, krkolomných okruzích a využijte 6 nových schopností pilotů!  </DESCRIPTION>
-    <IMAGES>
-      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2020/03/05093604/fm3mhldk6ndnan6j4m3l.jpg</IMAGE>
-      </IMAGES>
-    <LOGISTIC>
-      <WEIGHT>0.75</WEIGHT>
-      <HEIGHT>277</HEIGHT>
-      <WIDTH>280</WIDTH>
-      <DEPTH>15</DEPTH>
-      </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Rok vydání (v češtině):</NAME>
-        <VALUE>2019</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE>2</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE>6</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE>8+</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE>30+ minut</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        <VALUE>Čeština</VALUE>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>368</EXTERNAL_CODE>
     <NAME>Rytíř Klouzek</NAME>
     <PRICE>619.01</PRICE>
@@ -3752,6 +3746,51 @@
       <INFORMATION_PARAMETER>
         <NAME>Jazyk pravidel</NAME>
         <VALUE>Čeština</VALUE>
+        <VALUE>Slovenština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>351</EXTERNAL_CODE>
+    <NAME>SK Desiatka</NAME>
+    <PRICE>536.36</PRICE>
+    <PURCHASE_PRICE>375.45</PURCHASE_PRICE>
+    <EAN>8595558303519</EAN>
+    <DESCRIPTION>V hre Desiatka hráči nemusia čakať na svoj ťah tak dlho, ako v iných hrách. Ku každému okruhu v hre prináleží 10 otázok a 10 možných odpovedí. Všetci hráči dostanú šancu odpovedať v každom kruhu otázok. Pokiaľ odpoviete správne, získate jeden zo žetónov odpovedí ako bod. Ak ste znova na ťahu, môžete hľadať ďalšiu správnu odpoveď. V tej chvíli však podstupujete riziko, že body predtým získané pri tejto otázke stratíte. Budete hrať na istotu, alebo zariskujete?\n\nV hre je 200 okruhov, 2000 otázok a 2000 možných odpovedí. To všetko v kompaktnom balení nazývanom smartbox s počítadlami bodov a žetónmi odpovedí. Desítka je skvelá hra, najmä vhodná aj na cesty.</DESCRIPTION>
+    <IMAGES>
+      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2020/03/05093536/7l6k9mgjgkhmen2j7mij.jpg</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>0.6</WEIGHT>
+      <HEIGHT>252</HEIGHT>
+      <WIDTH>252</WIDTH>
+      <DEPTH>54</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2019</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Minimální počet hráčů</NAME>
+        <VALUE>2</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální počet hráčů</NAME>
+        <VALUE>8</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Doporučený věk</NAME>
+        <VALUE>10+</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Herní doba</NAME>
+        <VALUE>20+ minut</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
         <VALUE>Slovenština</VALUE>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
@@ -3863,7 +3902,7 @@
       <WIDTH>260</WIDTH>
       <DEPTH>75</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -3990,6 +4029,7 @@
     <PURCHASE_PRICE>288.68</PURCHASE_PRICE>
     <EAN>8595558303816</EAN>
     <DESCRIPTION>Představujeme geniálně prostou a přitom, troufáme si říct, prostě geniální hru BANANAGRAMS. Co nejrychleji složte písmena do mřížky, zatímco se vás ostatní snaží předběhnout! Žádná tužka, papír, herní plán, ani čekání na svůj tah... jen bleskové skládání písmenek z banánu, který s sebou můžete vzít kamkoli!</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
     <IMAGES>
       <IMAGE>https://mindok.cz/wp-content/uploads/2020/05/official-warhol-banana-2015.jpg</IMAGE>
       </IMAGES>
@@ -4030,12 +4070,58 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
+    <EXTERNAL_CODE>406</EXTERNAL_CODE>
+    <NAME>Desítka: Junior</NAME>
+    <PRICE>536.36</PRICE>
+    <PURCHASE_PRICE>375.45</PURCHASE_PRICE>
+    <EAN>8595558304066</EAN>
+    <DESCRIPTION>Oblíbili jste si hru Desítka? Tentokrát se k vám dostává ve verzi speciálně určené pro hraní s mladšími hráči. Hra vychází z důvěrně známých principů a lze ji hrát zcela samostatně - základní hru Desítka potřebovat nebudete. Čeká vás nová porce otázek a možných odpovědí, nové výzvy, nová porce zábavy zejména pro rodiny s dětmi.\n\nKe každému okruhu ve hře přísluší 10 otázek a 10 možných odpovědí. Pokud odpovíte správně, získáte bod. Když jste znovu na tahu můžete hledat další správnou odpověď. V tu chvíli ovšem podstupujete riziko, že body získané dříve v tomto okruhu ztratíte. Budete hrát na jistotu, nebo riskovat?\n\nVe hře je 200 okruhů, 2000 otázek a 2000 správných odpovědí. To vše v kompaktním balení zvaném Smartbox s počítadly bodů a žetony odpovědí.\n\nDesítka je skvělá hra, obzvláště vhodná na cesty.</DESCRIPTION>
+    <IMAGES>
+      <IMAGE>https://mindok.cz/wp-content/uploads/2020/06/desitka-junior-titulka-01.png</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>0.6</WEIGHT>
+      <HEIGHT>252</HEIGHT>
+      <WIDTH>252</WIDTH>
+      <DEPTH>53</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2020</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Minimální počet hráčů</NAME>
+        <VALUE>2</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální počet hráčů</NAME>
+        <VALUE>8</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Doporučený věk</NAME>
+        <VALUE>8+</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Herní doba</NAME>
+        <VALUE>20+ minut</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
     <EXTERNAL_CODE>407</EXTERNAL_CODE>
     <NAME>Desítka: 1. rozšíření</NAME>
     <PRICE>329.75</PRICE>
     <PURCHASE_PRICE>230.83</PURCHASE_PRICE>
     <EAN>8595558304073</EAN>
     <DESCRIPTION>Oblíbili jste si hru Desítka? V tomto rozšíření najdete kompletní\nnovou sadu karet! 200 nových okruhů, 2000 nových otázek a odpovědí.\nTy můžete se základní hrou promíchat, nebo okruhy ze\nzákladní hry kompletně vyměnit.\nNelze hrát bez základní hry Desítka.</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
     <IMAGES>
       <IMAGE>https://mindok.cz/wp-content/uploads/2020/06/desitka-r-titulka-01.png</IMAGE>
       </IMAGES>
@@ -4346,51 +4432,6 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>432</EXTERNAL_CODE>
-    <NAME>Ztracený ostrov Arnak</NAME>
-    <PRICE>990.91</PRICE>
-    <PURCHASE_PRICE>743.18</PURCHASE_PRICE>
-    <EAN>8595558304325</EAN>
-    <DESCRIPTION>Na neobydleném ostrově v dosud neprobádaných vodách oceánu nalezli badatelé stopy pradávné civilizace. Nyní stojíš v čele jedné z expedic, které se vydávají ostrov důkladně prozkoumat. Podaří se vám porazit mocné strážce a nalézt dávno ztracené artefakty?\n\nZtracený ostrov Arnak neotřelým způsobem kombinuje mechaniky deck buildingu, worker placementu a resource managementu. Bude to právě tvoje expedice, které se podaří odhalit tajemství ostrova?</DESCRIPTION>
-    <IMAGES>
-      <IMAGE>https://mindok.cz/wp-content/uploads/2020/11/ztraceny-ostrov-arnak-titulka01.jpg</IMAGE>
-      </IMAGES>
-    <LOGISTIC>
-      <WEIGHT>2.2</WEIGHT>
-      <HEIGHT>260</HEIGHT>
-      <WIDTH>369</WIDTH>
-      <DEPTH>74</DEPTH>
-      </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Rok vydání (v češtině):</NAME>
-        <VALUE>2020</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE>1</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE>4</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE>12+</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE>60+ minut</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        <VALUE>Čeština</VALUE>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>434</EXTERNAL_CODE>
     <NAME>Expedice příroda: 50 zvířecích stop</NAME>
     <PRICE>189.26</PRICE>
@@ -4469,6 +4510,52 @@
       <INFORMATION_PARAMETER>
         <NAME>Doporučený věk</NAME>
         <VALUE>10+</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Herní doba</NAME>
+        <VALUE>20+ minut</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        <VALUE>Slovenština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>447</EXTERNAL_CODE>
+    <NAME>Kulišák</NAME>
+    <PRICE>577.69</PRICE>
+    <PURCHASE_PRICE>404.38</PURCHASE_PRICE>
+    <EAN>8595558304479</EAN>
+    <DESCRIPTION>Z okenního parapetu zmizel vyhlášený koláč paní Dobromily Krupičkové a její slepičky hledají ko-ko-kohokoli, kdo padoucha viděl! Pohybujte se po plánu, shromažďujte stopy a pomocí speciálního detektivního skeneru vyřazujte nevinné lišky. Musíte spolupracovat rychle a správně, protože hladovec si to s moučníkem míří k doupěti! Dokážete včas ko-ko-kolektivně odhalit, kdo má v loupeži tlapy, nebo zvítězí lišák Kulišák?</DESCRIPTION>
+    <IMAGES>
+      <IMAGE>https://mindok.cz/wp-content/uploads/2021/05/kulisak-titulka01.jpg</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>0.75</WEIGHT>
+      <HEIGHT>245</HEIGHT>
+      <WIDTH>245</WIDTH>
+      <DEPTH>63</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2021</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Minimální počet hráčů</NAME>
+        <VALUE>2</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální počet hráčů</NAME>
+        <VALUE>4</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Doporučený věk</NAME>
+        <VALUE>5+</VALUE>
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
         <NAME>Herní doba</NAME>
@@ -5152,6 +5239,7 @@
     <PURCHASE_PRICE>2478.72</PURCHASE_PRICE>
     <EAN>8595558304950</EAN>
     <DESCRIPTION>Nemesis Lockdown je následovníkem oceňované hry Nemesis. Tato napínavá hra pro 1-5 hráčů o přežití v nehostinném kosmu přinese nová dobrodružství, založená na známých a nově okořeněných pravidlech hry. Čeká vás další hororový příběh ze světa Nemesis.\nŘíkají, že jsem se z té havárie pomátla. Říkají, že mám halucinace po tom všem, co jsem na palubě Nemesis zažila. Ale já vím, že kdykoli přiložím ucho na horkou rudou skálu, něco slyším. Ozvěny z hloubi této planety, hlasy kvílící hladem a zuřivostí. Zdá se, že je zvuky lidských strojů brzo přilákají, ty krvežíznivé bestie ze starých časů Marsu. Musím zmizet, než se to stane.\n\nVíte, že vetřelci vám jdou po krku. Ale věříte, že lidi ne?\n\nK dispozici je i rozšíření Chytridi a doplňky přinášející novou rasu a 3D vylepšení dveří a dalších prvků ve hře. Zároveň umožňuje kombinovat původní hru Nemesis a rozšíření Psychonauti a</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
     <IMAGES>
       <IMAGE>https://mindok.cz/wp-content/uploads/2022/09/nemesis-lockdown-titulka01.jpg</IMAGE>
       </IMAGES>
@@ -5300,6 +5388,7 @@
     <PURCHASE_PRICE>172.98</PURCHASE_PRICE>
     <EAN>8595558304592</EAN>
     <DESCRIPTION>V tomto rozšíření najdete 50 nových oboustranných karet! 100 nových okruhů, 1000 nových otázek a odpovědí týkajících se zemí, měst, památek, jazyků a dalších zajímavostí z celého světa. Těmito kartami můžete nahradit polovinu karet zezákladní hry. Jednotlivá rozšíření lze libovolně kombinovat.\n\nNelze hrát bez základní hry Desítka, nebo Desítka Česko.</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
     <IMAGES>
       <IMAGE>https://mindok.cz/wp-content/uploads/2021/10/desitka-minirozsireni-cestovani-titulka01.png</IMAGE>
       </IMAGES>
@@ -5345,6 +5434,7 @@
     <PURCHASE_PRICE>172.98</PURCHASE_PRICE>
     <EAN>8595558304608</EAN>
     <DESCRIPTION>V tomto rozšíření najdete 50 nových oboustranných karet! 100 nových okruhů, 1000 nových otázek a odpovědí týkajících se jídla, pití, kulinářských výrazů, světových delikates, kuchařů či dalších zajímavostí ze světa gastronomie. Těmito kartami můžete nahradit polovinu karet ze základní hry. Jednotlivá rozšíření lze libovolně kombinovat.\n\nNelze hrát bez základní hry Desítka, nebo Desítka Česko.\n\n&amp;nbsp;\n\n&amp;nbsp;\n\n&amp;nbsp;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
     <IMAGES>
       <IMAGE>https://mindok.cz/wp-content/uploads/2021/10/desitka-minirozsireni-jidloapiti-titulka01.png</IMAGE>
       </IMAGES>
@@ -5626,7 +5716,7 @@
       <WIDTH>230</WIDTH>
       <DEPTH>53</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -5648,35 +5738,6 @@
       <INFORMATION_PARAMETER>
         <NAME>Herní doba</NAME>
         <VALUE>90+ minut</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        <VALUE>Čeština</VALUE>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
-    </SHOPITEM>
-  <SHOPITEM>
-    <EXTERNAL_CODE>945</EXTERNAL_CODE>
-    <NAME>Bananagrams (display 12 ks)</NAME>
-    <PRICE>4948.76</PRICE>
-    <PURCHASE_PRICE>3464.13</PURCHASE_PRICE>
-    <DESCRIPTION>Představujeme geniálně prostou a přitom, troufáme si říct, prostě geniální hru BANANAGRAMS. Co nejrychleji složte písmena do mřížky, zatímco se vás ostatní snaží předběhnout! Žádná tužka, papír, herní plán, ani čekání na svůj tah... jen bleskové skládání písmenek z banánu, který s sebou můžete vzít kamkoli!</DESCRIPTION>
-    <IMAGES>
-      <IMAGE>https://mindok.cz/wp-content/uploads/2022/05/bananaczdisplay.png</IMAGE>
-      </IMAGES>
-    <LOGISTIC>
-      <WEIGHT>5.2</WEIGHT>
-      <HEIGHT>95</HEIGHT>
-      <WIDTH>200</WIDTH>
-      <DEPTH>85</DEPTH>
-      </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <EAN>0</EAN>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Rok vydání (v češtině):</NAME>
-        <VALUE>2019</VALUE>
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
         <NAME>Jazyk pravidel</NAME>
@@ -5827,6 +5888,7 @@
     <PURCHASE_PRICE>172.98</PURCHASE_PRICE>
     <EAN>8595558305179</EAN>
     <DESCRIPTION>V tomto rozšíření najdete 50 nových oboustranných karet! 100 nových okruhů, 1000 nových otázek a odpovědí týkajících se živočichů, květin, stromů, národních parků či dalších zajímavostí ze světa přírody. Těmito kartami můžete nahradit polovinu karet ze základní hry. Jednotlivá rozšíření lze libovolně kombinovat.\n\nNelze hrát bez základní hry Desítka, nebo Desítka Česko.\n\n&amp;nbsp;\n\n&amp;nbsp;\n\n&amp;nbsp;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
     <IMAGES>
       <IMAGE>https://mindok.cz/wp-content/uploads/2022/05/desitka-minirozsireni-priroda-titulka-01.jpg</IMAGE>
       </IMAGES>
@@ -6352,57 +6414,13 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>520</EXTERNAL_CODE>
-    <NAME>Toulavé věže</NAME>
-    <PRICE>908.26</PRICE>
-    <PURCHASE_PRICE>635.79</PURCHASE_PRICE>
-    <EAN>8595558305209</EAN>
-    <DESCRIPTION>Rok co rok měří studenti posledního ročníku čarodějné školy Havraního království své čerstvě nabyté znalosti a dovednosti. Každá třída zkouší ve velkém absolventském závodě dosáhnout nepolapitelného Havraního hradu nejrychleji.\nCesta na hrad je ovšem kromobyčejně svízelná a plná překážek. Jen ten kolektiv, který svého umění využije nejchytřeji a osedlá si tajuplné toulavé věže, opustí školu s titulem Mistři čarodějové.</DESCRIPTION>
-    <IMAGES>
-      <IMAGE>https://mindok.cz/wp-content/uploads/2022/09/toulave-veze-titulka01.jpg</IMAGE>
-      </IMAGES>
-    <LOGISTIC>
-      <WEIGHT>1.2</WEIGHT>
-      <HEIGHT>332</HEIGHT>
-      <WIDTH>230</WIDTH>
-      <DEPTH>77</DEPTH>
-      </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Rok vydání (v češtině):</NAME>
-        <VALUE>2022</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE>2</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE>6</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE>7+</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE>30+ minut</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        <VALUE>Čeština</VALUE>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>496</EXTERNAL_CODE>
     <NAME>Nemesis: Lockdown – Chytridi a doplňky – rozšíření</NAME>
     <PRICE>1900</PRICE>
     <PURCHASE_PRICE>1425</PURCHASE_PRICE>
     <EAN>8595558304967</EAN>
     <DESCRIPTION>Chytridi sice na pohled připomínají pozemské houby, ale vyvinuli se na planetě, kde právě houby jsou vrcholnými predátory. A když se jejich smrtící kolonie začne rozrůstat, je téměř nemožné ji zastavit!\nCHYTRIDI jsou nová rasa vetřelců - ke hraní s nimi potřebujete základní hru NEMESIS nebo NEMESIS LOCKDOWN. Dále v této krabici najdete doplňky umožňující hrát NEMESIS LOCKDOWN s KARNOMORFY, PSYCHONAUTY či postavami z AFTERMATH, máte-li tato rozšíření.</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
     <IMAGES>
       <IMAGE>https://mindok.cz/wp-content/uploads/2022/09/nemesis-lockdown-chytronauti-titulka01.jpg</IMAGE>
       </IMAGES>
@@ -6434,35 +6452,6 @@
       <INFORMATION_PARAMETER>
         <NAME>Herní doba</NAME>
         <VALUE>180+ minut</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        <VALUE>Čeština</VALUE>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
-    </SHOPITEM>
-  <SHOPITEM>
-    <EXTERNAL_CODE>973</EXTERNAL_CODE>
-    <NAME>Carcassonne: Dárky</NAME>
-    <PRICE>81.82</PRICE>
-    <PURCHASE_PRICE>61.36</PURCHASE_PRICE>
-    <EAN>8595558309733</EAN>
-    <DESCRIPTION>V tomto minirozšíření k 20. výročí hry Carcassonne můžete získat odměny za pomoc protihráčům. Lze hrát se základní hrou i s rozšířením. Obsahuje 25 karet „dárků“.Po pěti kusech pět typů akcí: koncil, vyklizení cesty, změna postoje, vyplacení, výběr ze dvou.</DESCRIPTION>
-    <IMAGES>
-      <IMAGE>https://mindok.cz/wp-content/uploads/2023/02/car-darky.jpg</IMAGE>
-      </IMAGES>
-    <LOGISTIC>
-      <WEIGHT>0</WEIGHT>
-      <HEIGHT>60</HEIGHT>
-      <WIDTH>40</WIDTH>
-      <DEPTH>3</DEPTH>
-      </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Rok vydání (v češtině):</NAME>
-        <VALUE>2022</VALUE>
         </INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER>
         <NAME>Jazyk pravidel</NAME>
@@ -6983,7 +6972,7 @@
       <WIDTH>200</WIDTH>
       <DEPTH>55</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -7359,6 +7348,36 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
+    <EXTERNAL_CODE>557</EXTERNAL_CODE>
+    <NAME>SMART - IQ Mini</NAME>
+    <PRICE>147.93</PRICE>
+    <PURCHASE_PRICE>103.55</PURCHASE_PRICE>
+    <EAN>8595558305575</EAN>
+    <VISIBILITY>hidden</VISIBILITY>
+    <IMAGES>
+      <IMAGE>https://mindok.cz/wp-content/uploads/2023/08/iq-mini-titulka01.jpg</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>0.05</WEIGHT>
+      <HEIGHT>70</HEIGHT>
+      <WIDTH>70</WIDTH>
+      <DEPTH>23</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2023</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        <VALUE>Slovenština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
     <EXTERNAL_CODE>556</EXTERNAL_CODE>
     <NAME>SMART - IQ Srdce</NAME>
     <PRICE>412.4</PRICE>
@@ -7413,6 +7432,36 @@
         <NAME>Jazyk pravidel</NAME>
         <VALUE>Čeština</VALUE>
         <VALUE>Slovenština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>558</EXTERNAL_CODE>
+    <NAME>SMART - Koťata a krabice</NAME>
+    <PRICE>495.04</PRICE>
+    <PURCHASE_PRICE>346.53</PURCHASE_PRICE>
+    <EAN>8595558305582</EAN>
+    <IMAGES>
+      <IMAGE>https://mindok.cz/wp-content/uploads/2024/10/sg-kotata-a-krabice-2024-titulka01.jpg</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>0.41</WEIGHT>
+      <HEIGHT>245</HEIGHT>
+      <WIDTH>175</WIDTH>
+      <DEPTH>48</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2023</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        <VALUE>Slovenština</VALUE>
+        <VALUE>Angličtina</VALUE>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -7535,6 +7584,7 @@
     <PRICE>247.11</PRICE>
     <PURCHASE_PRICE>172.98</PURCHASE_PRICE>
     <EAN>8595558305629</EAN>
+    <VISIBILITY>hidden</VISIBILITY>
     <IMAGES>
       <IMAGE>https://mindok.cz/wp-content/uploads/2023/08/desitka-minirozsireni-veda-titulka01.jpg</IMAGE>
       </IMAGES>
@@ -7725,51 +7775,12 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>543</EXTERNAL_CODE>
-    <NAME>Nemesis: Den poté – rozšíření</NAME>
-    <PRICE>1569.42</PRICE>
-    <PURCHASE_PRICE>1177.07</PURCHASE_PRICE>
-    <EAN>8595558305438</EAN>
-    <IMAGES>
-      <IMAGE>https://mindok.cz/wp-content/uploads/2024/03/nemesis-den-pote-titulka01.jpg</IMAGE>
-      </IMAGES>
-    <LOGISTIC>
-      <WEIGHT>1.26</WEIGHT>
-      <HEIGHT>300</HEIGHT>
-      <WIDTH>300</WIDTH>
-      <DEPTH>78</DEPTH>
-      </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Rok vydání (v češtině):</NAME>
-        <VALUE>2024</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE>1</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE>4</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE>1+</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        <VALUE>Čeština</VALUE>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>572</EXTERNAL_CODE>
     <NAME>Desítka: 2. rozšíření</NAME>
     <PRICE>329.75</PRICE>
     <PURCHASE_PRICE>230.83</PURCHASE_PRICE>
     <EAN>8595558305728</EAN>
+    <VISIBILITY>hidden</VISIBILITY>
     <IMAGES>
       <IMAGE>https://mindok.cz/wp-content/uploads/2024/03/desitka-rozsireni-2-titulka01.jpg</IMAGE>
       </IMAGES>
@@ -7848,6 +7859,35 @@
       </IMAGES>
     <LOGISTIC>
       <WEIGHT>0.07</WEIGHT>
+      <HEIGHT>150</HEIGHT>
+      <WIDTH>120</WIDTH>
+      <DEPTH>31</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2024</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        <VALUE>Slovenština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>547</EXTERNAL_CODE>
+    <NAME>Heckmeck z žížalek Mini</NAME>
+    <PRICE>164.46</PRICE>
+    <PURCHASE_PRICE>115.12</PURCHASE_PRICE>
+    <EAN>8595558305476</EAN>
+    <IMAGES>
+      <IMAGE>https://mindok.cz/wp-content/uploads/2024/02/heckmeck-mini-titulka01.jpg</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>0.05</WEIGHT>
       <HEIGHT>150</HEIGHT>
       <WIDTH>120</WIDTH>
       <DEPTH>31</DEPTH>
@@ -8209,34 +8249,6 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>987</EXTERNAL_CODE>
-    <NAME>Města promo Praha a Brno</NAME>
-    <PRICE>0.83</PRICE>
-    <PURCHASE_PRICE>0.62</PURCHASE_PRICE>
-    <EAN>8595558309870</EAN>
-    <IMAGES>
-      <IMAGE>https://mindok.cz/wp-content/uploads/2024/10/mesta-promo.jpg</IMAGE>
-      </IMAGES>
-    <LOGISTIC>
-      <WEIGHT>0</WEIGHT>
-      <HEIGHT>112</HEIGHT>
-      <WIDTH>215</WIDTH>
-      <DEPTH>20</DEPTH>
-      </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Rok vydání (v češtině):</NAME>
-        <VALUE>2024</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        <VALUE>Čeština</VALUE>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>603</EXTERNAL_CODE>
     <NAME>SMART - Formule</NAME>
     <PRICE>412.4</PRICE>
@@ -8330,6 +8342,7 @@
     <PRICE>164.46</PRICE>
     <PURCHASE_PRICE>115.12</PURCHASE_PRICE>
     <EAN>8595558306145</EAN>
+    <VISIBILITY>hidden</VISIBILITY>
     <IMAGES>
       <IMAGE>https://mindok.cz/wp-content/uploads/2024/09/sg-reverso-titulka01.jpg</IMAGE>
       </IMAGES>
@@ -8469,6 +8482,34 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
+    <EXTERNAL_CODE>591</EXTERNAL_CODE>
+    <NAME>Údolí Věčnosti</NAME>
+    <PRICE>742.98</PRICE>
+    <PURCHASE_PRICE>520.08</PURCHASE_PRICE>
+    <EAN>8595558305919</EAN>
+    <IMAGES>
+      <IMAGE>https://mindok.cz/wp-content/uploads/2024/09/udoli-vecnosti-titulka01.jpg</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>0.76</WEIGHT>
+      <HEIGHT>225</HEIGHT>
+      <WIDTH>225</WIDTH>
+      <DEPTH>62</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2024</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
     <EXTERNAL_CODE>607</EXTERNAL_CODE>
     <NAME>SETI: Pátrání po mimozemské inteligenci</NAME>
     <PRICE>1238.84</PRICE>
@@ -8478,7 +8519,7 @@
       <IMAGE>https://mindok.cz/wp-content/uploads/2024/11/seti-titulka01.jpg</IMAGE>
       </IMAGES>
     <LOGISTIC>
-      <WEIGHT>3.7</WEIGHT>
+      <WEIGHT>3.3</WEIGHT>
       <HEIGHT>260</HEIGHT>
       <WIDTH>370</WIDTH>
       <DEPTH>75</DEPTH>
@@ -8749,78 +8790,6 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>903</EXTERNAL_CODE>
-    <NAME>SET Plyšová hlídka +  rozšíření</NAME>
-    <PRICE>2065.29</PRICE>
-    <PURCHASE_PRICE>1445.7</PURCHASE_PRICE>
-    <IMAGES>
-      <IMAGE>https://mindok.cz/wp-content/uploads/2024/12/plysova-hlidka-set-2024.jpg</IMAGE>
-      </IMAGES>
-    <LOGISTIC>
-      <WEIGHT>3.35</WEIGHT>
-      <HEIGHT>295</HEIGHT>
-      <WIDTH>295</WIDTH>
-      <DEPTH>145</DEPTH>
-      </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <EAN>0</EAN>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Rok vydání (v češtině):</NAME>
-        <VALUE>2024</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        <VALUE>Čeština</VALUE>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
-    </SHOPITEM>
-  <SHOPITEM>
-    <EXTERNAL_CODE>955</EXTERNAL_CODE>
-    <NAME>SET Psí park + 1., a 2. rozšíření</NAME>
-    <PRICE>1321.49</PRICE>
-    <PURCHASE_PRICE>925.04</PURCHASE_PRICE>
-    <IMAGES>
-      <IMAGE>https://mindok.cz/wp-content/uploads/2024/12/psi-park-set-2024.jpg</IMAGE>
-      </IMAGES>
-    <LOGISTIC>
-      <WEIGHT>1.97</WEIGHT>
-      <HEIGHT>0</HEIGHT>
-      <WIDTH>0</WIDTH>
-      <DEPTH>0</DEPTH>
-      </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <EAN>0</EAN>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Rok vydání (v češtině):</NAME>
-        <VALUE>2023</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE>1</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE>4</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE>10+</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE>60+ minut</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        <VALUE>Čeština</VALUE>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>533</EXTERNAL_CODE>
     <NAME>Ekosystém</NAME>
     <PRICE>412.4</PRICE>
@@ -8835,7 +8804,7 @@
       <WIDTH>135</WIDTH>
       <DEPTH>45</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -8864,7 +8833,7 @@
       <WIDTH>305</WIDTH>
       <DEPTH>105</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -8892,7 +8861,7 @@
       <WIDTH>263</WIDTH>
       <DEPTH>65</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -9303,21 +9272,21 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>574</EXTERNAL_CODE>
-    <NAME>Odhodlaní: Posily – rozšíření</NAME>
-    <PRICE>742.98</PRICE>
-    <PURCHASE_PRICE>557.23</PURCHASE_PRICE>
-    <EAN>8595558305742</EAN>
+    <EXTERNAL_CODE>637</EXTERNAL_CODE>
+    <NAME>Jedeme bomby!</NAME>
+    <PRICE>908.26</PRICE>
+    <PURCHASE_PRICE>635.79</PURCHASE_PRICE>
+    <EAN>8595558306374</EAN>
     <IMAGES>
-      <IMAGE>https://mindok.cz/wp-content/uploads/2025/06/Odhodlani-posily-titulka01.jpg</IMAGE>
+      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2025/06/05090724/Jedeme-bomby-titulka01.jpg</IMAGE>
       </IMAGES>
     <LOGISTIC>
-      <WEIGHT>1.906</WEIGHT>
-      <HEIGHT>290</HEIGHT>
-      <WIDTH>215</WIDTH>
-      <DEPTH>115</DEPTH>
+      <WEIGHT>1.09</WEIGHT>
+      <HEIGHT>270</HEIGHT>
+      <WIDTH>270</WIDTH>
+      <DEPTH>50</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -9587,7 +9556,7 @@
       <WIDTH>192</WIDTH>
       <DEPTH>38</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -10031,7 +10000,7 @@
       <WIDTH>400</WIDTH>
       <DEPTH>130</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -10050,6 +10019,7 @@
     <PRICE>247.11</PRICE>
     <PURCHASE_PRICE>172.98</PURCHASE_PRICE>
     <EAN>8595558306763</EAN>
+    <VISIBILITY>hidden</VISIBILITY>
     <IMAGES>
       <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2025/09/30095457/Desitka_minirozsireni-80leta-titulka01.jpg</IMAGE>
       </IMAGES>
@@ -10078,6 +10048,7 @@
     <PRICE>247.11</PRICE>
     <PURCHASE_PRICE>172.98</PURCHASE_PRICE>
     <EAN>8595558306770</EAN>
+    <VISIBILITY>hidden</VISIBILITY>
     <IMAGES>
       <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2025/09/30101249/Desitka_minirozsireni-90leta-titulka01.jpg</IMAGE>
       </IMAGES>
@@ -10229,7 +10200,7 @@
       <WIDTH>240</WIDTH>
       <DEPTH>100</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -10322,6 +10293,7 @@
     <PRICE>329.75</PRICE>
     <PURCHASE_PRICE>230.83</PURCHASE_PRICE>
     <EAN>8595558306459</EAN>
+    <VISIBILITY>hidden</VISIBILITY>
     <IMAGES>
       <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2025/09/30112735/Desiatka_1-rozsirenie-SK-titulka01-300x300.jpg</IMAGE>
       </IMAGES>
@@ -10546,6 +10518,35 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
+    <EXTERNAL_CODE>1004</EXTERNAL_CODE>
+    <NAME>Terrorscape: Zvířecí pudy - 1. rozšíření</NAME>
+    <PRICE>577.69</PRICE>
+    <PURCHASE_PRICE>433.26</PURCHASE_PRICE>
+    <EAN>8595558310043</EAN>
+    <IMAGES>
+      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2025/10/09113349/Terrorscape-Dum-hruzy-1-Zvireci-pudy-titulka01.jpg</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>1.3</WEIGHT>
+      <HEIGHT>295</HEIGHT>
+      <WIDTH>295</WIDTH>
+      <DEPTH>65</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2025</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        <VALUE>Slovenština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
     <EXTERNAL_CODE>1005</EXTERNAL_CODE>
     <NAME>Terrorscape: Z jiného světa - 2. rozšíření</NAME>
     <PRICE>577.69</PRICE>
@@ -10661,62 +10662,6 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>1833</EXTERNAL_CODE>
-    <NAME>SET Nemesis + Nemesis: Den poté – rozšíření</NAME>
-    <PRICE>3676.86</PRICE>
-    <PURCHASE_PRICE>2757.64</PURCHASE_PRICE>
-    <IMAGES>
-      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2025/11/21141353/nemesis-set.png</IMAGE>
-      </IMAGES>
-    <LOGISTIC>
-      <WEIGHT>5.16</WEIGHT>
-      <HEIGHT>0</HEIGHT>
-      <WIDTH>0</WIDTH>
-      <DEPTH>0</DEPTH>
-      </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <EAN>0</EAN>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Rok vydání (v češtině):</NAME>
-        <VALUE>2025</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        <VALUE>Čeština</VALUE>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
-    </SHOPITEM>
-  <SHOPITEM>
-    <EXTERNAL_CODE>1834</EXTERNAL_CODE>
-    <NAME>SET Nemesis: Lockdown + Nemesis: Lockdown – Chytridi a doplňky – rozšíření</NAME>
-    <PRICE>4255.37</PRICE>
-    <PURCHASE_PRICE>3191.53</PURCHASE_PRICE>
-    <IMAGES>
-      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2025/11/21141405/nemesis-lockdown-set.png</IMAGE>
-      </IMAGES>
-    <LOGISTIC>
-      <WEIGHT>5.6</WEIGHT>
-      <HEIGHT>0</HEIGHT>
-      <WIDTH>0</WIDTH>
-      <DEPTH>0</DEPTH>
-      </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <EAN>0</EAN>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Rok vydání (v češtině):</NAME>
-        <VALUE>2025</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        <VALUE>Čeština</VALUE>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>696</EXTERNAL_CODE>
     <NAME>Zářihvozd</NAME>
     <PRICE>742.98</PRICE>
@@ -10782,7 +10727,7 @@
       <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2026/01/16120512/Krycie-mena-Navrat-do-Rokfortu-titulka01.jpg</IMAGE>
       </IMAGES>
     <LOGISTIC>
-      <WEIGHT>2.32</WEIGHT>
+      <WEIGHT>1.05</WEIGHT>
       <HEIGHT>235</HEIGHT>
       <WIDTH>165</WIDTH>
       <DEPTH>75</DEPTH>
@@ -10954,7 +10899,7 @@
       <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2025/12/09155247/Barevna-priserka-cestovni-titulka01.jpg</IMAGE>
       </IMAGES>
     <LOGISTIC>
-      <WEIGHT>0.8</WEIGHT>
+      <WEIGHT>0.35</WEIGHT>
       <HEIGHT>205</HEIGHT>
       <WIDTH>205</WIDTH>
       <DEPTH>45</DEPTH>
@@ -11061,6 +11006,7 @@
     <PRICE>147.93</PRICE>
     <PURCHASE_PRICE>103.55</PURCHASE_PRICE>
     <EAN>8595558306909</EAN>
+    <VISIBILITY>hidden</VISIBILITY>
     <IMAGES>
       <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2025/06/08113354/IQ-MiniHexpert-obr1.jpg</IMAGE>
       </IMAGES>
@@ -11151,7 +11097,7 @@
       <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2025/10/27115546/Kryci-jmena-Zpatky-do-Bradavic-titulka01.jpg</IMAGE>
       </IMAGES>
     <LOGISTIC>
-      <WEIGHT>2.32</WEIGHT>
+      <WEIGHT>1.05</WEIGHT>
       <HEIGHT>235</HEIGHT>
       <WIDTH>165</WIDTH>
       <DEPTH>75</DEPTH>
@@ -11170,39 +11116,12 @@
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>1838</EXTERNAL_CODE>
-    <NAME>SMART - IQ Mini Hexpert (display 24 ks)</NAME>
-    <PRICE>3550.41</PRICE>
-    <PURCHASE_PRICE>2485.29</PURCHASE_PRICE>
-    <IMAGES>
-      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2025/06/09101404/IQ-MiniHexpert-display.jpg</IMAGE>
-      </IMAGES>
-    <LOGISTIC>
-      <WEIGHT>1.3</WEIGHT>
-      <HEIGHT>140</HEIGHT>
-      <WIDTH>168</WIDTH>
-      <DEPTH>150</DEPTH>
-      </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <EAN>0</EAN>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Rok vydání (v češtině):</NAME>
-        <VALUE>2026</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        <VALUE>Čeština</VALUE>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>635</EXTERNAL_CODE>
     <NAME>Velmi vymírající dinosauři: Zmrzlý Brachio</NAME>
     <PRICE>247.11</PRICE>
     <PURCHASE_PRICE>172.98</PURCHASE_PRICE>
     <EAN>8595558306350</EAN>
+    <VISIBILITY>hidden</VISIBILITY>
     <IMAGES>
       <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2026/01/29162813/VelmiVymirajiciDinosauri-Brachio-titulka01.jpg</IMAGE>
       </IMAGES>
@@ -11231,6 +11150,7 @@
     <PRICE>247.11</PRICE>
     <PURCHASE_PRICE>172.98</PURCHASE_PRICE>
     <EAN>8595558306367</EAN>
+    <VISIBILITY>hidden</VISIBILITY>
     <IMAGES>
       <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2025/06/29161119/VelmiVymirajiciDinosauri-TRex-titulka01.jpg</IMAGE>
       </IMAGES>
@@ -11350,23 +11270,27 @@
       <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2025/08/27111937/Nemesis-Odplata-titulka01.jpg</IMAGE>
       </IMAGES>
     <LOGISTIC>
-      <WEIGHT>0</WEIGHT>
-      <HEIGHT>0</HEIGHT>
-      <WIDTH>0</WIDTH>
-      <DEPTH>0</DEPTH>
+      <WEIGHT>4.14</WEIGHT>
+      <HEIGHT>300</HEIGHT>
+      <WIDTH>300</WIDTH>
+      <DEPTH>183</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
         <VALUE>2026</VALUE>
         </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
     <EXTERNAL_CODE>1001</EXTERNAL_CODE>
-    <NAME>Nemesis: Odplata - Bonusový náklad</NAME>
+    <NAME>Nemesis: Odplata – Bonusový náklad</NAME>
     <PRICE>2478.51</PRICE>
     <PURCHASE_PRICE>1858.88</PURCHASE_PRICE>
     <EAN>8595558310012</EAN>
@@ -11374,17 +11298,27 @@
       <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2025/08/27114022/Nemesis-Odplata-Bonusovy-naklad-titulka01.jpg</IMAGE>
       </IMAGES>
     <LOGISTIC>
-      <WEIGHT>0</WEIGHT>
-      <HEIGHT>0</HEIGHT>
-      <WIDTH>0</WIDTH>
-      <DEPTH>0</DEPTH>
+      <WEIGHT>1.57</WEIGHT>
+      <HEIGHT>320</HEIGHT>
+      <WIDTH>200</WIDTH>
+      <DEPTH>100</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2026</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
     <EXTERNAL_CODE>1002</EXTERNAL_CODE>
-    <NAME>Nemesis: Odplata - Podpůrná jednotka</NAME>
+    <NAME>Nemesis: Odplata – Podpůrná jednotka</NAME>
     <PRICE>577.69</PRICE>
     <PURCHASE_PRICE>433.26</PURCHASE_PRICE>
     <EAN>8595558310029</EAN>
@@ -11392,13 +11326,23 @@
       <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2025/08/27115139/Nemesis-Odplata-Podpurna-jednotka-titulka01.jpg</IMAGE>
       </IMAGES>
     <LOGISTIC>
-      <WEIGHT>0</WEIGHT>
-      <HEIGHT>0</HEIGHT>
-      <WIDTH>0</WIDTH>
-      <DEPTH>0</DEPTH>
+      <WEIGHT>0.22</WEIGHT>
+      <HEIGHT>207</HEIGHT>
+      <WIDTH>175</WIDTH>
+      <DEPTH>41</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2026</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
     <EXTERNAL_CODE>650</EXTERNAL_CODE>
@@ -11410,17 +11354,21 @@
       <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2025/06/16163447/Letokruhy-krabice-3D-01-600x630.png</IMAGE>
       </IMAGES>
     <LOGISTIC>
-      <WEIGHT>0</WEIGHT>
-      <HEIGHT>0</HEIGHT>
-      <WIDTH>0</WIDTH>
-      <DEPTH>0</DEPTH>
+      <WEIGHT>2.36</WEIGHT>
+      <HEIGHT>300</HEIGHT>
+      <WIDTH>300</WIDTH>
+      <DEPTH>70</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
         <VALUE>2026</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -11439,12 +11387,16 @@
       <WIDTH>100</WIDTH>
       <DEPTH>65</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
         <VALUE>2026</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>
@@ -11463,8 +11415,18 @@
       <WIDTH>300</WIDTH>
       <DEPTH>65</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2026</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
     </SHOPITEM>
   <SHOPITEM>
     <EXTERNAL_CODE>599</EXTERNAL_CODE>
@@ -11481,12 +11443,256 @@
       <WIDTH>350</WIDTH>
       <DEPTH>125</DEPTH>
       </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2026</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>1018</EXTERNAL_CODE>
+    <NAME>Barvy slov</NAME>
+    <PRICE>495.04</PRICE>
+    <PURCHASE_PRICE>346.53</PURCHASE_PRICE>
+    <EAN>8595558310180</EAN>
+    <VISIBILITY>hidden</VISIBILITY>
+    <IMAGES>
+      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2026/03/04112106/Barvy-slov-titulka01.jpg</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>0.58</WEIGHT>
+      <HEIGHT>175</HEIGHT>
+      <WIDTH>175</WIDTH>
+      <DEPTH>55</DEPTH>
+      </LOGISTIC>
     <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
         <VALUE>2026</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>667</EXTERNAL_CODE>
+    <NAME>Máš pět?</NAME>
+    <PRICE>577.69</PRICE>
+    <PURCHASE_PRICE>404.38</PURCHASE_PRICE>
+    <EAN>8595558306671</EAN>
+    <IMAGES>
+      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2026/02/25103836/Mas-pet-titulka01.jpg</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>0.57</WEIGHT>
+      <HEIGHT>200</HEIGHT>
+      <WIDTH>200</WIDTH>
+      <DEPTH>55</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2026</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        <VALUE>Slovenština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>1020</EXTERNAL_CODE>
+    <NAME>Papírové moře: Vlnobití – rozšíření</NAME>
+    <PRICE>123.14</PRICE>
+    <PURCHASE_PRICE>92.36</PURCHASE_PRICE>
+    <EAN>8595558310203</EAN>
+    <IMAGES>
+      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2026/02/18141023/Papirove-more-Vlnobiti-titulka-01.png</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>0.03</WEIGHT>
+      <HEIGHT>136</HEIGHT>
+      <WIDTH>66</WIDTH>
+      <DEPTH>3</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        <VALUE>Slovenština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>1024</EXTERNAL_CODE>
+    <NAME>Toulavé věže: Čarověž – rozšíření</NAME>
+    <PRICE>536.36</PRICE>
+    <PURCHASE_PRICE>375.45</PURCHASE_PRICE>
+    <EAN>8595558310241</EAN>
+    <VISIBILITY>hidden</VISIBILITY>
+    <IMAGES>
+      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2026/03/11103047/Toulave-veze-Carovez-krabice-01.png</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>0.4</WEIGHT>
+      <HEIGHT>230</HEIGHT>
+      <WIDTH>120</WIDTH>
+      <DEPTH>78</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2026</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>683</EXTERNAL_CODE>
+    <NAME>Kaskádie junior</NAME>
+    <PRICE>825.62</PRICE>
+    <PURCHASE_PRICE>577.93</PURCHASE_PRICE>
+    <EAN>8595558306831</EAN>
+    <VISIBILITY>hidden</VISIBILITY>
+    <IMAGES>
+      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2025/06/03160924/Kaskadie-Junior-titulka01.jpg</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>1.18</WEIGHT>
+      <HEIGHT>240</HEIGHT>
+      <WIDTH>240</WIDTH>
+      <DEPTH>72</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2026</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        <VALUE>Slovenština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>1026</EXTERNAL_CODE>
+    <NAME>Paleolino</NAME>
+    <PRICE>825.62</PRICE>
+    <PURCHASE_PRICE>577.93</PURCHASE_PRICE>
+    <EAN>8595558310265</EAN>
+    <VISIBILITY>hidden</VISIBILITY>
+    <IMAGES>
+      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2026/03/25101304/Paleolino-titulka01.jpg</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>0.9</WEIGHT>
+      <HEIGHT>25.5</HEIGHT>
+      <WIDTH>25.5</WIDTH>
+      <DEPTH>5.5</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2026</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>698</EXTERNAL_CODE>
+    <NAME>Údolí věčnosti: Artefakty - 1. rozšíření</NAME>
+    <PRICE>412.4</PRICE>
+    <PURCHASE_PRICE>309.3</PURCHASE_PRICE>
+    <EAN>8595558306985</EAN>
+    <VISIBILITY>hidden</VISIBILITY>
+    <IMAGES>
+      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2025/09/16145158/Udoli-vecnosti-Artefakty-titulka01.jpg</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>0.36</WEIGHT>
+      <HEIGHT>225</HEIGHT>
+      <WIDTH>115</WIDTH>
+      <DEPTH>63</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>699</EXTERNAL_CODE>
+    <NAME>Údolí věčnosti: Prokletí - 2. rozšíření</NAME>
+    <PRICE>412.4</PRICE>
+    <PURCHASE_PRICE>309.3</PURCHASE_PRICE>
+    <EAN>8595558306992</EAN>
+    <VISIBILITY>hidden</VISIBILITY>
+    <IMAGES>
+      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2025/09/17101454/Udoli-vecnosti-Prokleti-titulka01.jpg</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>0.4</WEIGHT>
+      <HEIGHT>225</HEIGHT>
+      <WIDTH>115</WIDTH>
+      <DEPTH>63</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2026</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>1023</EXTERNAL_CODE>
+    <NAME>SMART - Jeníček a Mařenka</NAME>
+    <PRICE>660.33</PRICE>
+    <PURCHASE_PRICE>462.23</PURCHASE_PRICE>
+    <EAN>8595558310234</EAN>
+    <IMAGES>
+      <IMAGE>https://lh3.googleusercontent.com/sitesv/AA5AbUCVDfL8Lb0nsii3eTxXO8Ru1Z2XTUzmE5BQJ13mtVKqkQu_OAfq8-r71pSUONY8XOVA_QrmTK8f9VJydKz5DixAnOiMl7smx4cEnZt4Az1BpVIUZ8QwQqhoMiIwGRlWfmAemK3UPxu2FX--qYIo8mQ183oOM9iK4ntVIPE5zXq1C5AsqqKhkW-Ev4XRksXV9hvX9sH3Y8mtOv0eV5rHS_aJbgN0zicyvzCg=w1280</IMAGE>
+      </IMAGES>
+    <LOGISTIC>
+      <WEIGHT>0.74</WEIGHT>
+      <HEIGHT>245</HEIGHT>
+      <WIDTH>295</WIDTH>
+      <DEPTH>60</DEPTH>
+      </LOGISTIC>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        <VALUE>Slovenština</VALUE>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     </SHOPITEM>

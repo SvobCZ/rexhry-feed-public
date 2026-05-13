@@ -61,18 +61,6 @@
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>R090</EXTERNAL_CODE>
-    <NAME>Divukraj - Slyšte, slyšte</NAME>
-    <PRICE>205.79</PRICE>
-    <PURCHASE_PRICE>144.05</PURCHASE_PRICE>
-    <EAN>8594184129432</EAN>
-    <IMAGES>
-      <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/divukraj-slyste-slyste-3.png</IMAGE>
-      </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>R020</EXTERNAL_CODE>
     <NAME>Hanabi CZ - plechová krabička</NAME>
     <PRICE>288.43</PRICE>
@@ -81,7 +69,7 @@
     <IMAGES>
       <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/hanabi-plechova-krabicka-4.png</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
@@ -181,18 +169,6 @@
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>R042</EXTERNAL_CODE>
-    <NAME>Nejsme tu sami - minirozšíření</NAME>
-    <PRICE>48.76</PRICE>
-    <PURCHASE_PRICE>34.13</PURCHASE_PRICE>
-    <IMAGES>
-      <IMAGE>https://admin.planetaher.cz/upload/product-images/360x360/nejsme-tu-sami-minirozsireni.png</IMAGE>
-      </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <EAN>0</EAN>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>R045</EXTERNAL_CODE>
     <NAME>Představ si</NAME>
     <PRICE>453.72</PRICE>
@@ -201,7 +177,7 @@
     <IMAGES>
       <IMAGE>https://www.rexhry.cz/storage/media/176bb9ad-94f8-401c-9434-9ba819839999.jpg</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
@@ -218,7 +194,7 @@
     </SHOPITEM>
   <SHOPITEM>
     <EXTERNAL_CODE>R051</EXTERNAL_CODE>
-    <NAME>Safari Bar - Nové šelmy před barem</NAME>
+    <NAME>Safari Bar 2 - Nové šelmy před barem</NAME>
     <PRICE>371.07</PRICE>
     <PURCHASE_PRICE>259.75</PURCHASE_PRICE>
     <EAN>8594184129135</EAN>
@@ -235,19 +211,7 @@
     <PURCHASE_PRICE>722.56</PURCHASE_PRICE>
     <EAN>3558380013921</EAN>
     <IMAGES>
-      <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/8541.jpg</IMAGE>
-      </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    </SHOPITEM>
-  <SHOPITEM>
-    <EXTERNAL_CODE>R062</EXTERNAL_CODE>
-    <NAME>Takenoko: Panďátka</NAME>
-    <PRICE>577.69</PRICE>
-    <PURCHASE_PRICE>404.38</PURCHASE_PRICE>
-    <EAN>3770000010305</EAN>
-    <IMAGES>
-      <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/8348.jpg</IMAGE>
+      <IMAGE>https://www.rexhry.cz/storage/media/264e5f3d-0eb0-4fab-973e-5b3ad1127392.jpg</IMAGE>
       </IMAGES>
     <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
@@ -261,7 +225,7 @@
     <IMAGES>
       <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/the-mind-souzneni-mysli-3.png</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
@@ -326,7 +290,7 @@
     </SHOPITEM>
   <SHOPITEM>
     <EXTERNAL_CODE>S002</EXTERNAL_CODE>
-    <NAME>Sapphire Black - 100x (70x70mm)</NAME>
+    <NAME>Sapphire - 100x (70x70mm)</NAME>
     <PRICE>73.55</PRICE>
     <PURCHASE_PRICE>51.49</PURCHASE_PRICE>
     <EAN>8033324549124</EAN>
@@ -405,7 +369,7 @@
     <IMAGES>
       <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/obaly-na-karty-sapphire-green-standard-card-game-63-5-x-88-mm-100-ks.jpg</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
@@ -506,7 +470,7 @@
     </SHOPITEM>
   <SHOPITEM>
     <EXTERNAL_CODE>R108</EXTERNAL_CODE>
-    <NAME>Safari Bar - Další šelmy na tahu</NAME>
+    <NAME>Safari Bar 3 - Další šelmy na tahu</NAME>
     <PRICE>329.75</PRICE>
     <PURCHASE_PRICE>230.83</PURCHASE_PRICE>
     <EAN>8594184129548</EAN>
@@ -553,18 +517,6 @@
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>R114</EXTERNAL_CODE>
-    <NAME>Stezky slávy</NAME>
-    <PRICE>742.98</PRICE>
-    <PURCHASE_PRICE>520.08</PURCHASE_PRICE>
-    <EAN>8594184129579</EAN>
-    <IMAGES>
-      <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/stezky-slavy-3.png</IMAGE>
-      </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>R115</EXTERNAL_CODE>
     <NAME>Kniha rituálů</NAME>
     <PRICE>319</PRICE>
@@ -596,6 +548,30 @@
     <EAN>8594184129616</EAN>
     <IMAGES>
       <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/harry-potter-boj-o-bradavice-obludne-obludarium-rozsireni-5.png</IMAGE>
+      </IMAGES>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>R127</EXTERNAL_CODE>
+    <NAME>Cthulhu: I smrt může zemřít - Shub-Niggurath, Černá koza z lesů</NAME>
+    <PRICE>660.33</PRICE>
+    <PURCHASE_PRICE>462.23</PURCHASE_PRICE>
+    <EAN>8594184129678</EAN>
+    <IMAGES>
+      <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/cthulhu-i-smrt-muze-zemrit-shub-niggurath-cerna-koza-z-lesu-rozsireni.png</IMAGE>
+      </IMAGES>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>R128</EXTERNAL_CODE>
+    <NAME>Cthulhu: I smrt může zemřít - Yog-Sothoth</NAME>
+    <PRICE>660.33</PRICE>
+    <PURCHASE_PRICE>462.23</PURCHASE_PRICE>
+    <EAN>8594184129685</EAN>
+    <IMAGES>
+      <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/cthulhu-i-smrt-muze-zemrit-yog-sothoth-rozsireni-3.png</IMAGE>
       </IMAGES>
     <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
@@ -649,18 +625,6 @@
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>R144</EXTERNAL_CODE>
-    <NAME>Dědicové trůnu</NAME>
-    <PRICE>536.36</PRICE>
-    <PURCHASE_PRICE>375.45</PURCHASE_PRICE>
-    <EAN>8594184129654</EAN>
-    <IMAGES>
-      <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/dedicove-trunu-2.png</IMAGE>
-      </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>R152</EXTERNAL_CODE>
     <NAME>Pošli to dál!</NAME>
     <PRICE>701.65</PRICE>
@@ -670,18 +634,6 @@
       <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/posli-to-dal-telestrations-cz.png</IMAGE>
       </IMAGES>
     <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    </SHOPITEM>
-  <SHOPITEM>
-    <EXTERNAL_CODE>R151</EXTERNAL_CODE>
-    <NAME>Divoká Serengeti</NAME>
-    <PRICE>1486.78</PRICE>
-    <PURCHASE_PRICE>1040.74</PURCHASE_PRICE>
-    <EAN>8594184129913</EAN>
-    <IMAGES>
-      <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/divoka-serengeti-2.png</IMAGE>
-      </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
@@ -704,18 +656,6 @@
     <EAN>8594184129777</EAN>
     <IMAGES>
       <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/settlers-zrod-imperia-rozkvet-imperia.png</IMAGE>
-      </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    </SHOPITEM>
-  <SHOPITEM>
-    <EXTERNAL_CODE>R155</EXTERNAL_CODE>
-    <NAME>Divoká Serengeti: Specialisté</NAME>
-    <PRICE>495.04</PRICE>
-    <PURCHASE_PRICE>371.28</PURCHASE_PRICE>
-    <EAN>8594184129937</EAN>
-    <IMAGES>
-      <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/divoka-serengeti-specialiste.jpg</IMAGE>
       </IMAGES>
     <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
@@ -829,27 +769,15 @@
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>R173</EXTERNAL_CODE>
-    <NAME>Noe - karetní hra</NAME>
-    <PRICE>412.4</PRICE>
-    <PURCHASE_PRICE>288.68</PURCHASE_PRICE>
-    <EAN>3558380016267</EAN>
-    <IMAGES>
-      <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/noe.png</IMAGE>
-      </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>C012</EXTERNAL_CODE>
     <NAME>Galaxy Trucker: Druhé, vytuněné vydání</NAME>
-    <PRICE>784.3</PRICE>
-    <PURCHASE_PRICE>549.01</PURCHASE_PRICE>
+    <PRICE>825.62</PRICE>
+    <PURCHASE_PRICE>577.93</PURCHASE_PRICE>
     <EAN>8594156319960</EAN>
     <IMAGES>
       <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/galaxy-trucker-druhe-vytunene-vydani-9.jpg</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
@@ -937,18 +865,6 @@
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>R186</EXTERNAL_CODE>
-    <NAME>Palírna</NAME>
-    <PRICE>1734.71</PRICE>
-    <PURCHASE_PRICE>1214.3</PURCHASE_PRICE>
-    <EAN>0751784417453</EAN>
-    <IMAGES>
-      <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/palirna.png</IMAGE>
-      </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>R178</EXTERNAL_CODE>
     <NAME>Komiks, v němž jsi malou hrdinkou: Káťa a poděs - Velký útěk</NAME>
     <PRICE>359</PRICE>
@@ -1021,18 +937,6 @@
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>R195</EXTERNAL_CODE>
-    <NAME>Momidži</NAME>
-    <PRICE>453.72</PRICE>
-    <PURCHASE_PRICE>317.6</PURCHASE_PRICE>
-    <EAN>0751784417422</EAN>
-    <IMAGES>
-      <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/momidzi-10.png</IMAGE>
-      </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>R196</EXTERNAL_CODE>
     <NAME>Mláďata z Divukraje</NAME>
     <PRICE>1073.55</PRICE>
@@ -1041,7 +945,7 @@
     <IMAGES>
       <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/mladata-z-divukraje-2.png</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
@@ -1245,7 +1149,7 @@
     <IMAGES>
       <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/pasovec.png</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
@@ -1297,18 +1201,6 @@
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>R228</EXTERNAL_CODE>
-    <NAME>Divoká Serengeti 2x + 2x rozšíření Specialisté zdarma</NAME>
-    <PRICE>2973.55</PRICE>
-    <PURCHASE_PRICE>2081.49</PURCHASE_PRICE>
-    <IMAGES>
-      <IMAGE>https://1iq.cz/img/Bs7RC/cR65M.jpg</IMAGE>
-      </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <EAN>0</EAN>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>R229</EXTERNAL_CODE>
     <NAME>Mozkožrout: Za hranice evoluce</NAME>
     <PRICE>412.4</PRICE>
@@ -1340,18 +1232,6 @@
     <EAN>0751784417835</EAN>
     <IMAGES>
       <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/divoka-amazonie.png</IMAGE>
-      </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    </SHOPITEM>
-  <SHOPITEM>
-    <EXTERNAL_CODE>R232</EXTERNAL_CODE>
-    <NAME>Divoká Amazonie: minirozšíření</NAME>
-    <PRICE>329.75</PRICE>
-    <PURCHASE_PRICE>230.83</PURCHASE_PRICE>
-    <EAN>0751784417842</EAN>
-    <IMAGES>
-      <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/divoka-amazonie-minirozsireni.png</IMAGE>
       </IMAGES>
     <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
@@ -1393,18 +1273,6 @@
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>R241</EXTERNAL_CODE>
-    <NAME>Duchové ostrova: Rozervaná země</NAME>
-    <PRICE>1362.81</PRICE>
-    <PURCHASE_PRICE>953.97</PURCHASE_PRICE>
-    <EAN>8594195400636</EAN>
-    <IMAGES>
-      <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/duchove-ostrova-rozervana-zeme-3.png</IMAGE>
-      </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>R244</EXTERNAL_CODE>
     <NAME>Kacíř: Zkáza Roanoke</NAME>
     <PRICE>908.26</PRICE>
@@ -1413,7 +1281,7 @@
     <IMAGES>
       <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/kacir-zkaza-roanoke-2.jpg</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
@@ -2547,7 +2415,7 @@
     <IMAGES>
       <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/sladke-prdelky-4.jpg?_gl=1*1chv67*_gcl_au*MTIzNjMyNjk1NS4xNzYyNzY0NjMw*_ga*NTc3NTE3ODkzLjE3MzEzMTU0MDc.*_ga_FKNMPZ2M1T*czE3NjI3ODI3MTIkbzM0NSRnMSR0MTc2Mjc4Mjc0MiRqMzAkbDAkaDA.</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
@@ -2775,7 +2643,7 @@
     <IMAGES>
       <IMAGE>https://www.rexhry.cz/storage/media/2f89e4c9-2e61-4402-8f20-04ac3c2093be.png</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
@@ -2787,7 +2655,7 @@
     <IMAGES>
       <IMAGE>https://www.rexhry.cz/storage/media/8d6dda83-a1be-4e21-a289-54f2a20d68e3.png</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
@@ -2799,7 +2667,7 @@
     <IMAGES>
       <IMAGE>https://www.rexhry.cz/storage/media/bdb51df0-1dd6-459a-802d-cb7f046e2c53.jpg</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
@@ -2811,7 +2679,7 @@
     <IMAGES>
       <IMAGE>https://www.rexhry.cz/storage/media/6f7ab967-c9e9-497f-80bc-84f34a4e11d8.jpg</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
@@ -2823,7 +2691,7 @@
     <IMAGES>
       <IMAGE>https://www.rexhry.cz/storage/media/c6646e0c-e9c5-4f44-a8c9-4fa1f65d49cd.jpg</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
@@ -2835,7 +2703,7 @@
     <IMAGES>
       <IMAGE>https://www.rexhry.cz/storage/media/4d9cb0e5-a0d6-46d9-ba6c-d008e42fc925.jpg</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
@@ -2847,7 +2715,7 @@
     <IMAGES>
       <IMAGE>https://www.rexhry.cz/storage/media/d486ccbe-d851-4027-9625-82acb04c1b99.jpg</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
@@ -2859,7 +2727,7 @@
     <IMAGES>
       <IMAGE>https://www.rexhry.cz/storage/media/de93449d-433a-4609-84b6-684860a912ae.png</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     </SHOPITEM>
   <SHOPITEM>
@@ -2870,6 +2738,54 @@
     <EAN>0751784418993</EAN>
     <IMAGES>
       <IMAGE>https://www.rexhry.cz/storage/media/3a79dbb5-3b40-46fb-a842-46e24abd99c6.jpg</IMAGE>
+      </IMAGES>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>R388</EXTERNAL_CODE>
+    <NAME>Plameny a spáry</NAME>
+    <PRICE>908.26</PRICE>
+    <PURCHASE_PRICE>635.79</PURCHASE_PRICE>
+    <EAN>0751784419006</EAN>
+    <IMAGES>
+      <IMAGE>https://www.rexhry.cz/storage/media/b814f2d9-1bce-45ce-b61d-2e7024931cc3.jpg</IMAGE>
+      </IMAGES>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>R389</EXTERNAL_CODE>
+    <NAME>Toriki: Ostrov trosečníků</NAME>
+    <PRICE>784.3</PRICE>
+    <PURCHASE_PRICE>549.01</PURCHASE_PRICE>
+    <EAN>0751784419204</EAN>
+    <IMAGES>
+      <IMAGE>https://www.rexhry.cz/storage/media/cbe334f6-8ae8-4da4-a4f5-375adc4ba075.jpg</IMAGE>
+      </IMAGES>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>R390</EXTERNAL_CODE>
+    <NAME>Tedoku</NAME>
+    <PRICE>288.43</PRICE>
+    <PURCHASE_PRICE>201.9</PURCHASE_PRICE>
+    <EAN>0751784419211</EAN>
+    <IMAGES>
+      <IMAGE>https://www.rexhry.cz/storage/media/dc1e5f53-2243-44fd-8233-b505c114dbfc.jpg</IMAGE>
+      </IMAGES>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>R391</EXTERNAL_CODE>
+    <NAME>Cthulhu: Smrt může zemřít - Godzilla</NAME>
+    <PRICE>619.01</PRICE>
+    <PURCHASE_PRICE>433.31</PURCHASE_PRICE>
+    <EAN>0751784418542</EAN>
+    <IMAGES>
+      <IMAGE>https://www.rexhry.cz/storage/media/38a5ffee-a9ff-4615-a19e-3e5a6b55ea5c.png</IMAGE>
       </IMAGES>
     <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
