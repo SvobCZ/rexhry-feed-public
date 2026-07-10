@@ -18,7 +18,7 @@
         <TITLE>Ceník - pokladna</TITLE>
         <VAT>21</VAT>
         <PURCHASE_PRICE></PURCHASE_PRICE>
-        <PRICE>412.3</PRICE>
+        <PRICE>412</PRICE>
         <PRICE_RATIO>1</PRICE_RATIO>
         <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
         <ACTION_PRICE>1</ACTION_PRICE>
@@ -35,7 +35,7 @@
         <TITLE>VO ceník (40%)</TITLE>
         <VAT>21</VAT>
         <PURCHASE_PRICE></PURCHASE_PRICE>
-        <PRICE>412.3</PRICE>
+        <PRICE>412.30</PRICE>
         <PRICE_RATIO>1</PRICE_RATIO>
         <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
         <ACTION_PRICE> </ACTION_PRICE>
@@ -52,7 +52,7 @@
         <TITLE>Velkoobchodní ceník</TITLE>
         <VAT>21</VAT>
         <PURCHASE_PRICE> </PURCHASE_PRICE>
-        <PRICE>412.3</PRICE>
+        <PRICE>412</PRICE>
         <PRICE_RATIO>1</PRICE_RATIO>
         <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
         <ACTION_PRICE> </ACTION_PRICE>
@@ -69,7 +69,7 @@
         <TITLE>Velkoobchodní ceník SK</TITLE>
         <VAT>21</VAT>
         <PURCHASE_PRICE> </PURCHASE_PRICE>
-        <PRICE>412.3</PRICE>
+        <PRICE>412</PRICE>
         <PRICE_RATIO>1</PRICE_RATIO>
         <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
         <ACTION_PRICE> </ACTION_PRICE>
